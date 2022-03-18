@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Poketest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="abilities">ABILITIES</string>
+    <string name="types">TYPES</string>
+    <string name="error_message">Your pokedex seems disconnected</string>
+    <string name="retry">RETRY</string>
+    <string name="no_selected_pokemon_message">PAS DE POKEMON SELECTIONNE</string>
+</resources>
